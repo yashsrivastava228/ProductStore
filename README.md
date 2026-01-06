@@ -22,8 +22,6 @@
 </div>
 ## Live-Demo:
 
-Check out the live demo using the link below:
-
 [Product Store Live Demo](https://productstore-sdr6.onrender.com)
 
 ### Setup .env file
