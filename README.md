@@ -1,6 +1,6 @@
-### PRODUCT STORE
+## PRODUCT STORE
 
-### Screenshots:
+## Screenshots:
 
 <div>
 <p align="center">
@@ -20,7 +20,7 @@
   />
 </p>
 </div>
-### Live Demo:
+## Live-Demo:
 
 Check out the live demo using the link below:
 
